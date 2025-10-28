@@ -1,7 +1,5 @@
-# FUTURE_DS_02
+# FUTURE_DS_02 = Social Media Campaign Performance Tracker (2022–2024)
 Social Media Campaign Performance Tracker | Power BI dashboard analyzing reach, engagement, CTR, conversions &amp; ROI — created as part of Data Analytics Internship at Future Interns.
-
-# 📊 FUTURE_DS_02 – Social Media Campaign Performance Tracker (2022–2024)
 
 ##  Overview
 This repository contains **Task 2** of my **Data Science & Analytics Internship** at **Future Interns**.  
@@ -14,10 +12,8 @@ The goal of this project was to analyze and visualize **social media campaign da
 - Build an interactive Power BI dashboard for data-driven insights  
 
 ##  Tools & Technologies
-- **Power BI** – Data visualization & analytics  
-- **Excel / CSV** – Data preparation and cleaning  
-- **DAX (Data Analysis Expressions)** – Custom metrics and KPIs  
-- **Canva** *(optional)* – Visual enhancement  
+- Power BI – Data visualization & analytics  
+- Excel / CSV – Data preparation and cleaning    
 
 ##  Key Insights
 - Total Reach: 250M+ across all platforms  
